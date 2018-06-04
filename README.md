@@ -23,3 +23,11 @@ Good for basic exercises.
 
 
 thanks. 
+
+
+### Last accuracy 93 %
+
+ using 
+ - Xavier init 
+ - nn.relu
+ 
